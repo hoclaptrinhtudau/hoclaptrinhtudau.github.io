@@ -1,6 +1,6 @@
 ---
 title: Tìm hiểu cơ bản về mạng Convolutional Neural Network 
-author: huongnv75
+author: hoclaptrinhtudau
 date: 2020-04-25 14:10:00 +0800
 categories: [Blogging, Computer Vision]
 tags: [computer vision]

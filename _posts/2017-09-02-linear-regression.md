@@ -1,6 +1,6 @@
 ---
 title: Bài toán Linear Regression
-author: huongnv75
+author: hoclaptrinhtudau
 date: 2017-09-02 12:00:00 +0700
 categories: [Blogging, Tensorflow Tutorial]
 tags: [tensorflow]

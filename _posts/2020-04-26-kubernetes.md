@@ -1,6 +1,6 @@
 ---
 title: Tài liệu về Kubernetes
-author: huongnv75
+author: hoclaptrinhtudau
 date: 2020-04-26 12:00:00 +0700
 categories: [Blogging, Devops]
 tags: [devops]
